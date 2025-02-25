@@ -1,0 +1,2 @@
+C:/Users/trejo/Desktop/Semestre VI/Moviles/Parcial III/Banca movil/project_banca_movil/project_banca_movil/android/app/.cxx/RelWithDebInfo/4s113j5h/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/trejo/Desktop/Semestre VI/Moviles/Parcial III/Banca movil/project_banca_movil/project_banca_movil/android/app/.cxx/RelWithDebInfo/4s113j5h/arm64-v8a/CMakeFiles/rebuild_cache.dir

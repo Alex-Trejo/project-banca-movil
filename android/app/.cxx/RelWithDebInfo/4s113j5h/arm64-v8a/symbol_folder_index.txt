@@ -1,0 +1,1 @@
+C:\Users\trejo\Desktop\Semestre VI\Moviles\Parcial III\Banca movil\project_banca_movil\project_banca_movil\build\app\intermediates\cxx\RelWithDebInfo\4s113j5h\obj\arm64-v8a
